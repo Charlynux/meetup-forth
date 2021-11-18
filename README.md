@@ -29,9 +29,7 @@ Un autre aspect qui pourrait être intéressant serait de se pencher sur l'impl�
 
 Ron Garret rédige un patch pour le code Forth de la sonde Galileo.
 
-```
-Also in 1993 I used MCL to help generate a code patch for the Gallileo magnetometer. The magnetometer had an RCA1802 processor, 2k each of RAM and ROM, and was programmed in Forth using a development system that ran on a long-since-decommissioned Apple II. The instrument had developed a bad memory byte right in the middle of the code. The code needed to be patched to not use this bad byte. The magnetometer team had originally estimated that resurrecting the development environment and generating the code patch would take so long that they were not even going to attempt it. Using Lisp I wrote from scratch a Forth development environment for the instrument (including a simulator for the hardware) and used it to generate the patch. The whole project took just under 3 months of part-time work.
-```
+> Also in 1993 I used MCL to help generate a code patch for the Gallileo magnetometer. The magnetometer had an RCA1802 processor, 2k each of RAM and ROM, and was programmed in Forth using a development system that ran on a long-since-decommissioned Apple II. The instrument had developed a bad memory byte right in the middle of the code. The code needed to be patched to not use this bad byte. The magnetometer team had originally estimated that resurrecting the development environment and generating the code patch would take so long that they were not even going to attempt it. Using Lisp I wrote from scratch a Forth development environment for the instrument (including a simulator for the hardware) and used it to generate the patch. The whole project took just under 3 months of part-time work.
 
 C'est ce paragraphe qui m'a donné envie d'en savoir plus sur Forth.
 
