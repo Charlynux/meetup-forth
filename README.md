@@ -24,6 +24,7 @@ Un autre aspect qui pourrait être intéressant serait de se pencher sur l'impl�
 - Gforth - https://www.gnu.org/software/gforth/
 - Forth in 100 steps - https://leanpub.com/forthin100steps
 - A Webserver in Forth - https://bernd-paysan.de/httpd-en.html
+- OpenFirmware (merci Ronan) - https://fr.wikipedia.org/wiki/Open_Firmware
 
 ### Galileo Patch
 
